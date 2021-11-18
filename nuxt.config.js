@@ -2,7 +2,7 @@ export default {
 
   mode: 'static',
   router: {
-     base: '/<cpnt-200-A1>/'
+     base: '/cpnt-200-A1/'
   },
 
   // Target: https://go.nuxtjs.dev/config-target
